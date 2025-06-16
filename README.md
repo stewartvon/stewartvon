@@ -3,14 +3,14 @@
 
 I'm a full stack developer. 
 🎯 **Senior Full-Stack Developer** with 8+ years of experience  
-💻 Tech Stack: PHP, Laravel, React, ASP.NET, C#, Android, Blockchain  
+💻 Tech Stack: PHP, Laravel, Wordpress, React, ASP.NET, C#, Android, Blockchain  
 🌏 Based in Hong Kong  
 📚 Always learning — currently exploring AI integrations and advanced React patterns
 
 ---
 
 ### 🛠️ What I Do
-- 🧱 Build scalable web applications (Laravel, React, .NET)
+- 🧱 Build scalable web applications (Laravel, React, .NET, Wordpress)
 - 📲 Mobile development (Android native)
 - 🧬 Blockchain apps and smart contract integration
 - 🧩 System design, API architecture, and database optimization
@@ -18,7 +18,7 @@ I'm a full stack developer.
 ---
 
 ### 🔧 Tech Toolbox
-![My Skills](https://skillicons.dev/icons?i=php,laravel,react,dotnet,csharp,androidstudio,html,css,js,ts,git)
+![My Skills](https://skillicons.dev/icons?i=php,laravel,react,dotnet,csharp,wordpress,androidstudio,html,css,js,ts,git)
 
 ---
 
@@ -29,7 +29,7 @@ I'm a full stack developer.
 ---
 
 ### 🤝 Contact me 
-- [Portfolio](https://portfolio-ten-delta-52.vercel.app/)
+- Stewart's [Portfolio](https://portfolio-ten-delta-52.vercel.app/)
 - 📬 Email: stewartvon975@gmail.com
 <!--
 **stewartvon/stewartvon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
