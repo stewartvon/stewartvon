@@ -23,13 +23,12 @@ I'm a full stack developer.
 ---
 
 ### 📈 GitHub Stats
-![Stewart's GitHub stats](https://github-readme-stats.vercel.app/api?username=stewartvon&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stewartvon&layout=compact&theme=tokyonight)
 
 ---
 
-### 🤝 Let’s Connect!  
+### 🤝 Contact me 
 - [Portfolio](https://portfolio-ten-delta-52.vercel.app/)
 - 📬 Email: stewartvon975@gmail.com
 <!--
