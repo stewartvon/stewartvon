@@ -29,7 +29,7 @@ I'm a full stack developer.
 ---
 
 ### 🤝 Contact me 
-- Stewart's [Portfolio](https://portfolio-ten-delta-52.vercel.app/)
+- Stewart's [Portfolio](https://portfolio-2nkj.vercel.app/)
 - 📬 Email: stewartvon975@gmail.com
 <!--
 **stewartvon/stewartvon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
