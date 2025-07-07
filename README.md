@@ -2,7 +2,7 @@
 ## Hi there 👋 My name's stewart von.
 
 I'm a full stack developer. 
-🎯 **Senior Full-Stack Developer** with 8+ years of experience  
+🎯 **Senior Full-Stack Developer** with 7+ years of experience  
 💻 Tech Stack: PHP, Laravel, Wordpress, React, ASP.NET, C#, Android, Blockchain  
 🌏 Based in Hong Kong  
 📚 Always learning — currently exploring AI integrations and advanced React patterns
@@ -29,7 +29,7 @@ I'm a full stack developer.
 ---
 
 ### 🤝 Contact me 
-- Stewart's [Portfolio](https://portfolio-2nkj.vercel.app/)
+- Stewart's [Portfolio](https://portfolio-full-stack-sepia.vercel.app/)
 - 📬 Email: stewartvon975@gmail.com
 <!--
 **stewartvon/stewartvon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
