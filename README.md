@@ -4,7 +4,7 @@
 <h3 align="center">Senior Full-Stack Developer · Architecting Scalable, Elegant Digital Solutions</h3>
 
 <p align="center">
-  🔹 7+ Years of Experience · 🌏 Based in Hong Kong · 💼 Available for Remote Collaborations
+  🔹 7+ Years of Experience · 💼 Available for Remote Collaborations
 </p>
 
 ---
@@ -74,7 +74,7 @@ From backend APIs to frontend experiences, I build scalable systems that are fas
 
 If you're looking for a developer who combines **clean code**, **scalable design**, and **a product-focused mindset**, I’d love to connect.
 
-- 🌐 **Portfolio**: [stewartvon.dev](https://portfolio-full-stack-sepia.vercel.app/)
+- 🌐 **Portfolio**: [stewartvon's portfolio](https://portfolio-full-stack-sepia.vercel.app/)
 - 📬 **Email**: [stewartvon975@gmail.com](mailto:stewartvon975@gmail.com)
 - 💼 **Available for**: Freelance, remote contracts, technical consulting
 
