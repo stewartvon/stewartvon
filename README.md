@@ -18,7 +18,7 @@ I'm a full stack developer.
 ---
 
 ### 🔧 Tech Toolbox
-![My Skills](https://skillicons.dev/icons?i=php,laravel,react,dotnet,csharp,wordpress,androidstudio,html,css,js,ts,git)
+![My Skills]([https://skillicons.dev/icons?i=php,laravel,react,dotnet,csharp,wordpress,androidstudio,html,css,js,ts,git](https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,codeigniter,wordpress,dotnet,csharp,nodejs,react,vue,angularjs,android,mysql,postgres,mongodb,git,postman,vscode,yarn,npm))
 
 ---
 
