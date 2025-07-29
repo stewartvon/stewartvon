@@ -61,7 +61,7 @@ From backend APIs to frontend experiences, I build scalable systems that are fas
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stewartvon&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stewartvon&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
