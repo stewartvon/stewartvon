@@ -50,18 +50,18 @@ From backend APIs to frontend experiences, I build scalable systems that are fas
 
 ---
 
-### 📈 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stewartvon&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stewartvon&show_icons=true&theme=tokyonight" />
-</p>
+### 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-contribution-grid-snake.vercel.app/?user=stewartvon&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stewartvon&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stewartvon&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
