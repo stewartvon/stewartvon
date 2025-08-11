@@ -55,27 +55,11 @@ I combine expertise in **traditional software development** with **cutting-edge 
 
 ---
 
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/?user=stewartvon&theme=tokyo-night" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stewartvon&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stewartvon&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
 ### 🤝 Let’s Work Together
 
 If you're looking for a developer who combines **clean code**, **scalable design**, and **a product-focused mindset**, I’d love to connect.
 
-- 🌐 **Portfolio**: [stewartvon's portfolio](https://morgan-lee.vercel.app/)
+- 🌐 **Portfolio**: [portfolio](https://morgan-lee.vercel.app/)
 - 💼 **Available for**: Freelance, remote contracts, technical consulting
 
 > *"Great software isn't just built — it's thoughtfully crafted with care, intention, and clarity."*
